@@ -1,0 +1,6 @@
+{
+  "name": "StoryWeaver AI",
+  "description": "An AI-powered application that generates a story based on your prompt or image, and converts it into multiple customizable image panels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
